@@ -41,7 +41,7 @@ button.addEventListener("click", () => {
   // access body backgroundColor
   document.body.style.backgroundColor = hexColor;
 
-  //   textContent - allow as to put a text
+  //   textContent - allow as to put new text
   color.textContent = hexColor;
 });
 
